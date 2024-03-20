@@ -19,7 +19,10 @@ const BodyPart = ({ item, setBodyPart, bodyPart }) => {
         gap: "47px",
       }}
     >
-      <img src={Icon} alt="dumbbell" styles={{ width: "40px", height: "40px" }} />
+      <img src={Icon} alt="dumbbell" style={{ width: "40px", height: "40px" }} />
+      <Typography fontSize="24px" fontWeight="bold" color="#3a1212" textTransform="capitalize">
+        {item}
+      </Typography>
     </Stack>
   );
 };
