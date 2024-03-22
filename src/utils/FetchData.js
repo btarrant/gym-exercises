@@ -11,6 +11,9 @@ export const exerciseOptions = {
 
 export const youtubeOptions = {
   method: "GET",
+  parameters: {
+    limit: "10", // Limiting to 10 requests
+  },
   headers: {
     "X-RapidAPI-Host": "youtube-search-and-download.p.rapidapi.com",
     "X-RapidAPI-Key": "f0021db587msh781fb1cbef39856p11c183jsn45521d5d1c85",
