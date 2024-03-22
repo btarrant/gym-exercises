@@ -68,10 +68,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 4. Test your changes thoroughly.
 5. Submit a pull request with a clear description of your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Thank you for exploring our Fitness App project! We hope you find it useful and inspiring on your fitness journey. If you have any questions or feedback, feel free to reach out to us. Happy exercising! 🏋️‍♂️💪
