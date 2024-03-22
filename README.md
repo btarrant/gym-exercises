@@ -2,6 +2,10 @@
 
 Welcome to my Fitness App project! This React-based fitness/exercise app is designed to help users discover, select, and learn about various exercises and muscle groups. Whether you're a fitness enthusiast, athlete, or someone looking to get started on their fitness journey, this app provides a comprehensive platform to explore different exercises, find examples, and watch instructional videos.
 
+![Screenshot 2024-03-21 at 8 22 51 PM](https://github.com/btarrant/gym-exercises/assets/93632053/40ad4295-3f7a-43f6-b7cf-421febcda335)
+
+
+
 ## Features
 
 - **Exercise Selection**: Users can choose specific exercises from a wide range of options.
