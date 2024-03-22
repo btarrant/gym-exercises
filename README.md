@@ -70,4 +70,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ---
 
-Thank you for exploring our Fitness App project! We hope you find it useful and inspiring on your fitness journey. If you have any questions or feedback, feel free to reach out to us. Happy exercising! 🏋️‍♂️💪
+Thank you for exploring my Fitness App project! I hope you find it useful and inspiring on your fitness journey. If you have any questions or feedback, feel free to reach out to me. Happy exercising! 🏋️‍♂️💪
